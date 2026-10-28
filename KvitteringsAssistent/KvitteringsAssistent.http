@@ -1,0 +1,6 @@
+@KvitteringsAssistent_HostAddress = http://localhost:5014
+
+GET {{KvitteringsAssistent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
